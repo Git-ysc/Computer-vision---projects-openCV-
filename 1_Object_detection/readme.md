@@ -12,6 +12,6 @@ I opted yolo v3 algorithm for this project. this project contains also yolo v3 c
 
 the input and output images are present in this folder
 
-
+Demo and output of the project - (Youtube - https://youtu.be/5i0ZM76OS5s)
 
 
