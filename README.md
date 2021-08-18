@@ -1,4 +1,17 @@
-# Computer-vision---projects-openCV-
+# Computer-vision
+LANGUAGE - PYTHON
+LIBRARY - OPENCV
 
-Implemented a real time face mask detector , image color detector which identiﬁes colors in an image or video and also an object detector which identiﬁes the classes of the objects in an image or video using python OpenCV 
+There are three projects in this repositories which was my task as a intern in THE SPARKS FOUNDATION (Education managment company) 
+
+TASK - 1 - Object detection with deep learning and OpenCV
+
+TASK - 2 - Color Identification in Images
+
+TASK - 3 - Face Mask Detector with OpenCV, TensorFlow, keras
+
+
+The demo and output can be found in this youtube link - (youtube - https://www.youtube.com/channel/UCqjR3hW9a5iwiN6Pt315AzQ)
+
+ 
 
